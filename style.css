@@ -66,3 +66,18 @@ background-color: #f8f9fa;
   background-color: #ff1493;   
   color: white;
 }
+.navbar-custom {
+  background-color: pink; 
+}
+
+.btn-outline-success {
+  border-color: gray;
+  color: gray;
+}
+
+
+.btn-outline-success:hover {
+  background-color: gray;
+  border-color: gray;
+  color: white; 
+}
